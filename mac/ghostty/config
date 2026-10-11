@@ -1,0 +1,4 @@
+theme = Catppuccin Mocha
+window-decoration = false
+mouse-hide-while-typing = true
+quit-after-last-window-closed = true
